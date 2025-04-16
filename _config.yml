@@ -1,0 +1,7 @@
+
+title: Jamie's Portfolio
+baseurl: ""
+url: "https://yourusername.github.io"
+collections:
+  projects:
+    output: true
